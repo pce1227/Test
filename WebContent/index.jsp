@@ -7,9 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body> 
+<<<<<<< master
 	<h1>Git Test!</h1> 
 	<div class="article">
 		<h2>¹®´Ü1</h2>
 	</div>
+=======
+	<h1>Git Test!</h1>
+>>>>>>> efcdd18 indexì˜ ì œëª©ì¶”ê°€
 </body>
 </html>
